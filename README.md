@@ -1,4 +1,4 @@
-# 🛣️ Smart Road Damage Detection & Monitoring System (YOLOv8 + Streamlit)
+# 🛣️ AI-Based Road Damage Detection & Monitoring System (YOLOv8 + Streamlit)
 
 Author: **Yusuf**
 
