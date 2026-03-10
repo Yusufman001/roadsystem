@@ -1,0 +1,70 @@
+
+[2026-02-16 21:53:17.902953]
+
+ROAD DAMAGE INCIDENT ALERT
+
+Time: 2026-02-16 21:53
+Location: -1.0, 36.0
+
+Total Damages: 3
+High Severity: 1
+Potholes: 0
+
+Action: Field Inspection Required
+
+
+[2026-02-16 22:56:55.660168]
+
+ROAD DAMAGE INCIDENT ALERT
+
+Time: 2026-02-16 22:56
+Location: -1.0, 36.0
+
+Total Damages: 3
+High Severity: 1
+Potholes: 0
+
+Action: Field Inspection Required
+
+
+[2026-02-18 11:34:01.604521]
+
+ROAD DAMAGE INCIDENT ALERT
+
+Time: 2026-02-18 11:34
+Location: -1.0, 36.0
+
+Total Damages: 3
+High Severity: 1
+Potholes: 0
+
+Action: Field Inspection Required
+
+
+[2026-02-22 11:42:34.087261]
+
+ROAD DAMAGE INCIDENT ALERT
+
+Time: 2026-02-22 11:42
+Location: -1.0, 36.0
+
+Total Damages: 1
+High Severity: 1
+Potholes: 0
+
+Action: Field Inspection Required
+
+
+[2026-02-23 16:40:56.532713]
+
+ROAD DAMAGE INCIDENT ALERT
+
+Time: 2026-02-23 16:40
+Location: -1.0, 36.0
+
+Total Damages: 1
+High Severity: 1
+Potholes: 0
+
+Action: Field Inspection Required
+
