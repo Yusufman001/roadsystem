@@ -105,4 +105,27 @@ When severe damage is detected, the system can notify management via **WhatsApp 
 
 ---
 
-# 
+# 🧠 System Architecture
+User Upload / Camera
+        │
+        ▼
+ YOLOv8 Detection Model
+        │
+        ▼
+ Damage Classification
+        │
+        ▼
+ Data Processing Layer
+        │
+        ├── SQLite Database
+        ├── CSV Reports
+        ├── Heatmap Generation
+        └── Hotspot Clustering
+        │
+        ▼
+ Streamlit Web Dashboard
+        │
+        ├── Detection Interface
+        ├── Analytics Dashboard
+        ├── Government Monitoring Panel
+        └── Reporting System
