@@ -105,4 +105,4 @@ When severe damage is detected, the system can notify management via **WhatsApp 
 
 ---
 
-# 🧠 System Architecture
+# 
