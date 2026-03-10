@@ -1,6 +1,6 @@
 # 🛣️ Smart Road Damage Detection & Monitoring System (YOLOv8 + Streamlit)
 
-Author: **Najib**
+Author: **Yusuf**
 
 ## 📌 Project Overview
 This project is an **AI-powered Road Infrastructure Monitoring System** designed to detect road damage such as potholes and cracks using **YOLOv8 object detection**. The system allows road authorities, municipalities, and infrastructure agencies to monitor road conditions, generate reports, and prioritize repairs.
